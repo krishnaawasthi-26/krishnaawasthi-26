@@ -27,6 +27,33 @@
 
 ---
 
+## 🏆 Competitive Programming
+
+| Platform | Achievement |
+|---|---|
+| 🟡 LeetCode | Knight Badge · Rating **1958** · Top **3% Globally** · **1300+** Problems |
+| 🟢 GeeksforGeeks | Rank **35 / 3000+** students @ SKIT |
+| 🔵 Codeforces | Active Competitor |
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/krishnaawasthi_26?theme=dark&font=Nunito&ext=contest)](https://leetcode.com/u/krishnaawasthi_26)
+
+### 🌐 Find me on
+[![Codolio](https://img.shields.io/badge/Codolio-Profile-blue?style=for-the-badge&logo=codeforces&logoColor=white)](https://codolio.com/profile/KrishnaAwasthi_26)
+[![Codeforces](https://img.shields.io/badge/Codeforces-Profile-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/krishnaawasthi-26)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Knight-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/krishnaawasthi_26)
+
+---
+
+## 🚀 Projects
+
+| Project | Tech Stack | Links |
+|---|---|---|
+| 📊 LeetCode Progress Tracker | Python · FastAPI · MongoDB · Pydantic | [GitHub](YOUR_REPO_LINK) · [Live Demo](YOUR_DEMO_LINK) |
+| 🌾 Smart Agriculture System | Python · FastAPI · MQTT · IoT · MongoDB | [GitHub](YOUR_REPO_LINK) |
+| 🔗 URL Shortener Service | Java · Spring Boot · MySQL | [GitHub](YOUR_REPO_LINK) |
+
+---
+
 ## 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
@@ -35,13 +62,20 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏅 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
 ## 🔝 Top Contributed Repos
 ![](https://github-contributor-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
+---
+
+## 📜 Certifications
+
+- 🎓 **IIT Kharagpur (NPTEL)** — Java · Modern C++ · C · Microprocessors
+- 🎓 **Harvard University** — CS50 Intro to CS · CS50 Python
 
 ---
 

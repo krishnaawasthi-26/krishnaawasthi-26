@@ -37,6 +37,8 @@
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/krishnaawasthi_26?theme=dark&font=Nunito&ext=contest)](https://leetcode.com/u/krishnaawasthi_26)
 
+[![Codolio](https://img.shields.io/badge/Codolio-All%20Stats-blue?style=for-the-badge&logo=codeforces&logoColor=white)](https://codolio.com/profile/KrishnaAwasthi_26)
+
 ### 🌐 Find me on
 [![Codolio](https://img.shields.io/badge/Codolio-Profile-blue?style=for-the-badge&logo=codeforces&logoColor=white)](https://codolio.com/profile/KrishnaAwasthi_26)
 [![Codeforces](https://img.shields.io/badge/Codeforces-Profile-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/krishnaawasthi-26)

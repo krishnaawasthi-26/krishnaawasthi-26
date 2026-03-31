@@ -50,27 +50,25 @@
 
 | Project | Tech Stack | Links |
 |---|---|---|
-| 📊 LeetCode Progress Tracker | Python · FastAPI · MongoDB · Pydantic | [GitHub](YOUR_REPO_LINK) · [Live Demo](YOUR_DEMO_LINK) |
-| 🌾 Smart Agriculture System | Python · FastAPI · MQTT · IoT · MongoDB | [GitHub](YOUR_REPO_LINK) |
-| 🔗 URL Shortener Service | Java · Spring Boot · MySQL | [GitHub](YOUR_REPO_LINK) |
+| 📊 LeetCode Progress Tracker | Python · FastAPI · MongoDB · Pydantic | [GitHub](https://github.com/krishnaawasthi-26/backend-leetcode-tracker) · [Live Demo](https://backend-leetcode-tracker--krishnaasfafav.replit.app) |
+| 🌾 Smart Agriculture System | Python · FastAPI · MQTT · IoT · MongoDB | [GitHub](https://github.com/parthCJ/Aarma-be.git) |
+| 🔗 URL Shortener Service | Java · Spring Boot · MySQL | [GitHub](https://github.com/krishnaawasthi_26/url-shortener) |
 
 ---
-
 ## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=krishnaawasthi-26&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=krishnaawasthi-26&theme=tokyonight&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=krishnaawasthi-26&theme=tokyonight&hide_border=false&layout=compact)
 
 ---
 
 ## 🏅 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=krishnaawasthi-26&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
 ## 🔝 Top Contributed Repos
-![](https://github-contributor-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=krishnaawasthi-26&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
 

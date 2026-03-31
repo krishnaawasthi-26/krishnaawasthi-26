@@ -50,9 +50,10 @@
 
 | Project | Tech Stack | Links |
 |---|---|---|
-| 📊 LeetCode Progress Tracker | Python · FastAPI · MongoDB · Pydantic | [GitHub](https://github.com/krishnaawasthi-26/backend-leetcode-tracker) · [Live Demo](https://backend-leetcode-tracker--krishnaasfafav.replit.app) |
-| 🌾 Smart Agriculture System | Python · FastAPI · MQTT · IoT · MongoDB | [GitHub](https://github.com/parthCJ/Aarma-be.git) |
-| 🔗 URL Shortener Service | Java · Spring Boot · MySQL | [GitHub](https://github.com/krishnaawasthi_26/url-shortener) |
+| 📊 LeetCode Progress Tracker | Python · FastAPI · MongoDB · Pydantic | [GitHub](https://github.com/krishnaawasthi-26/backend-leetcode-tracker) · [Deployment](https://backend-leetcode-tracker--krishnaasfafav.replit.app/) 
+·[Live Demo]([https://backend-leetcode-tracker--krishnaasfafav.replit.app](https://backend-leetcode-tracker--krishnaasfafav.replit.app/dashboard?username=krishnaawasthi_26)) |
+| 🌾 Smart Agriculture System | Python · FastAPI · MQTT · IoT · MongoDB | [GitHub](https://github.com/parthCJ/Aarma-be) |
+| 🔗 URL Shortener Service | Java · Spring Boot · MySQL | [GitHub](https://github.com/krishnaawasthi-26/url_shortner) |
 
 ---
 ## 📊 GitHub Stats

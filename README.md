@@ -62,15 +62,6 @@
 
 ---
 
-## 🏅 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=krishnaawasthi-26&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
-
----
-
-## 🔝 Top Contributed Repos
-![](https://github-contributor-stats.vercel.app/api?username=krishnaawasthi-26&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
----
 
 ## 📜 Certifications
 
@@ -79,4 +70,4 @@
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=YOUR_GITHUB_USERNAME&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Krishnaawasthi-26&icon=0&color=0)](https://visitcount.itsvg.in)
